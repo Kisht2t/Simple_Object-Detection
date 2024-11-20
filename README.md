@@ -1,3 +1,7 @@
+License
+This project is for educational purposes. Please check the license of the Oxford-IIIT Pet dataset for usage guidelines.
+
+
 # Simple_Object-Detection
 
 Object Detection on the Oxford-IIIT Pet Dataset
@@ -15,6 +19,8 @@ Structure: The dataset includes images, segmentation masks, and labels for pet b
 1. Dataset Loading
 Load the dataset using TensorFlow Datasets (tfds.load), including training and testing subsets.
 Display dataset metadata for an overview.
+
+Datset: https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset
 
 2. Bounding Box Calculation
 Method:
